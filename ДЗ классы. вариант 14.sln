@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ДЗ классы. вариант 14", "ДЗ классы. вариант 14\ДЗ классы. вариант 14.vcxproj", "{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|x64.ActiveCfg = Debug|x64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|x64.Build.0 = Debug|x64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Debug|x86.Build.0 = Debug|Win32
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|ARM64.Build.0 = Release|ARM64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|x64.ActiveCfg = Release|x64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|x64.Build.0 = Release|x64
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|x86.ActiveCfg = Release|Win32
+		{DE8547F4-8BC6-429A-9EE7-2F745D155B3C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7C8620-EECA-4EA6-A134-ACA48C5C8808}
+	EndGlobalSection
+EndGlobal
